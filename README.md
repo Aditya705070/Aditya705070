@@ -1,4 +1,4 @@
-![logo](https://github.com/Aditya705070/Aditya705070/blob/main/Brown%20Wood%20Minimalist%20Profile%20LinkedIn%20Banner.png)
+![logo](https://github.com/Aditya705070/Aditya705070/blob/main/Aditya%20Kumar.png)
 <h1 align="center">Hi 👋, I'm Aditya Kumar</h1>
 <h3 align="center">A passionate fullstack developer from patna,India</h3>
 
